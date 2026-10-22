@@ -1,0 +1,231 @@
+data,produto,categoria,loja,estado,quantidade,preco_unitario
+15/06/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,1,80.91
+12/02/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,3,289.9
+22/09/2024,Carregador Turbo,Eletrônicos,Loja Online,RJ,1,89.9
+01/05/2024,Café 500g,Alimentação,Loja Online,SP,1,22.41
+17/11/2024,Café 500g,Alimentação,Loja Shopping,MG,2,"22,41"
+02/10/2024,Camiseta Básica,Vestuário,Loja Shopping,PR,1,"49,90"
+09/01/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,1,89.9
+09/03/2024,Camiseta Básica,Vestuário,Loja Shopping,RJ,1,49.9
+13/03/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,1,80.91
+03/11/2024,Café 500g,Alimentação,Loja Shopping,PR,3,24.9
+27/09/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,3,260.91
+09/03/2024, Café 500g ,Alimentação,Loja Online,MG,1,"24,90"
+02/12/2024,Mesa de Escritório,Móveis,Loja Online,RJ,1,649.9
+24/05/2024,Cesta de Chocolates,Alimentação,Loja Shopping,PR,3,71.91
+08/10/2024,Cesta de Chocolates,Alimentação,Loja Centro,MG,2,79.9
+21/11/2024,Jaqueta Jeans,Vestuário,Loja Online,SP,2,219.9
+16/10/2024,Cesta de Chocolates,Alimentação,Loja Online,PR,4,79.9
+08/08/2024,Camiseta Básica,Vestuário,Loja Shopping,SP,1,
+25/04/2024,Estante,Móveis,Loja Online,SP,1,"296,91"
+14/06/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,1,260.91
+09/08/2024,Camiseta Básica,Vestuário,Loja Shopping,MG,2,49.9
+10/09/2024,Café 500g,Alimentação,Loja Online,RJ,1,22.41
+14/04/2024,Kit Shampoo,Beleza,Loja Centro,SP,2,59.9
+21/11/2024,Jaqueta Jeans,Vestuário,Loja Shopping,MG,1,219.9
+12/07/2024,Cesta de Chocolates,Alimentação,Loja Centro,SP,2,71.91
+25/09/2024,Camiseta Básica,Vestuário,Loja Online,SP,1,44.91
+25/05/2024,Carregador Turbo,Eletrônicos,Loja Online,MG,2,80.91
+05/11/2024,Tênis de Corrida,Vestuário,Loja Online,SP,2,"289,90"
+04/02/2024,Café 500g,Alimentação,Loja Centro,SP,2,24.9
+06/08/2024,Camiseta Básica,Vestuário,Loja Shopping,PR,4,44.91
+01/06/2024,Café 500g,Alimentação,Loja Centro,SP,2,24.9
+08/01/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,2,289.9
+08/02/2024,Camiseta Básica,Vestuário,Loja Shopping,SP,1,49.9
+17/12/2024,Carregador Turbo,Eletrônicos,Loja Online,MG,2,89.9
+23/07/2024, Camiseta Básica ,Vestuário,Loja Shopping,SP,1,49.9
+23/11/2024,Jaqueta Jeans,Vestuário,Loja Centro,SP,1,197.91
+09/08/2024,Camiseta Básica,Vestuário,Loja Online,BA,3,44.91
+03/08/2024,Café 500g,Alimentação,Loja Online,SP,1,22.41
+08/01/2024,Jaqueta Jeans,Vestuário,Loja Online,SP,1,219.9
+28/11/2024,Cesta de Chocolates,Alimentação,Loja Shopping,BA,2,79.9
+19/03/2024,Estante,Móveis,Loja Centro,RJ,2,329.9
+10/12/2024,Smartwatch,Eletrônicos,Loja Online,RJ,2,399.9
+21/07/2024,Café 500g,Alimentação,Loja Online,MG,1,22.41
+13/05/2024,Tênis de Corrida,Vestuário,Loja Online,MG,2,289.9
+07/01/2024,Carregador Turbo,Eletrônicos,Loja Shopping,SP,2,80.91
+15/01/2024,Cesta de Chocolates,Alimentação,Loja Centro,SP,2,79.9
+25/11/2024,Café 500g,Alimentação,Loja Online,MG,2,24.9
+14/08/2024,Camiseta Básica,Vestuário,Loja Online,PR,1,49.9
+04/12/2024,Café 500g,Alimentação,Loja Shopping,SP,1,22.41
+04/03/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,RJ,1,149.9
+23/12/2024,Cesta de Chocolates,Alimentação,Loja Shopping,RJ,2,79.9
+25/07/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,RJ,1,134.91
+14/01/2024,Café 500g,Alimentação,Loja Centro,SP,1,24.9
+24/01/2024,Smartwatch,Eletrônicos,Loja Shopping,RJ,2,359.91
+11/04/2024,Kit Shampoo,Beleza,Loja Online,MG,2,53.91
+19/08/2024,Smartwatch,Eletrônicos,Loja Online,RJ,2,399.9
+04/11/2024,Fone Bluetooth,Eletrônicos,Loja Online,BA,1,149.9
+01/05/2024,Camiseta Básica,Vestuário,Loja Online,MG,3,49.9
+14/10/2024,Kit Shampoo,Beleza,Loja Centro,SP,2,53.91
+08/05/2024,Cadeira Gamer,Móveis,Loja Shopping,SP,1,899.9
+20/10/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,SP,2,149.9
+25/12/2024,Café 500g,Alimentação,Loja Online,PR,1,24.9
+04/12/2024,Cadeira Gamer,Móveis,Loja Online,RJ,1,"899,90"
+01/01/2024,Carregador Turbo,Eletrônicos,Loja Shopping,PR,2,89.9
+28/12/2024,Café 500g,Alimentação,Loja Online,SP,2,24.9
+15/05/2024,Camiseta Básica,Vestuário,Loja Shopping,MG,1,"49,90"
+03/02/2024,Tênis de Corrida,Vestuário,Loja Online,SP,2,289.9
+22/01/2024,Perfume,Beleza,Loja Shopping,RJ,1,189.9
+28/04/2024,Cadeira Gamer,Móveis,Loja Centro,MG,1,899.9
+25/02/2024,Café 500g,Alimentação,Loja Online,PR,1,24.9
+17/04/2024,Café 500g,Alimentação,Loja Online,RJ,1,24.9
+16/07/2024,Mesa de Escritório,Móveis,Loja Shopping,SP,1,649.9
+15/03/2024,Tênis de Corrida,Vestuário,Loja Online,SP,1,289.9
+20/10/2024,Carregador Turbo,Eletrônicos,Loja Online,PR,2,80.91
+19/12/2024,Perfume,Beleza,Loja Shopping,SP,1,189.9
+12/07/2024,Perfume,Beleza,Loja Centro,SP,1,189.9
+19/12/2024,Mesa de Escritório,Móveis,Loja Online,MG,1,649.9
+26/04/2024,Carregador Turbo,Eletrônicos,Loja Shopping,SP,1,89.9
+03/11/2024,Carregador Turbo,Eletrônicos,Loja Online,RJ,2,89.9
+01/05/2024,Jaqueta Jeans,Vestuário,Loja Online,RJ,1,219.9
+10/06/2024,Perfume,Beleza,Loja Online,SP,2,170.91
+08/04/2024,Mesa de Escritório,Móveis,Loja Centro,PR,1,649.9
+18/01/2024,Tênis de Corrida,Vestuário,Loja Centro,SP,1,289.9
+03/11/2024,Café 500g,Alimentação,Loja Online,SP,1,24.9
+09/01/2024,Estante,Móveis,Loja Shopping,RJ,4,329.9
+23/05/2024, Café 500g ,Alimentação,Loja Online,PR,1,24.9
+01/09/2024,Perfume,Beleza,Loja Online,RJ,2,170.91
+10/10/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,1,260.91
+03/04/2024,Tênis de Corrida,Vestuário,Loja Online,SP,3,289.9
+11/05/2024,Mesa de Escritório,Móveis,Loja Online,MG,2,"649,90"
+04/11/2024, Fone Bluetooth ,Eletrônicos,Loja Online,SP,1,149.9
+26/12/2024,Smartwatch,Eletrônicos,Loja Online,SP,3,359.91
+16/07/2024,Café 500g,Alimentação,Loja Online,RJ,2,"24,90"
+09/04/2024,Café 500g,Alimentação,Loja Centro,PR,1,24.9
+04/07/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,2,89.9
+03/05/2024,Carregador Turbo,Eletrônicos,Loja Shopping,RJ,2,89.9
+02/07/2024,Café 500g,Alimentação,Loja Online,SP,2,"24,90"
+10/03/2024,Carregador Turbo,Eletrônicos,Loja Online,RJ,2,89.9
+23/11/2024,Estante,Móveis,Loja Online,BA,3,296.91
+07/04/2024,Estante,Móveis,Loja Online,RJ,2,296.91
+27/08/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,RJ,2,"149,90"
+25/11/2024,Tênis de Corrida,Vestuário,Loja Centro,SP,1,289.9
+09/11/2024,Café 500g,Alimentação,Loja Online,SP,1,24.9
+14/05/2024,Café 500g,Alimentação,Loja Online,SP,1,24.9
+03/02/2024,Carregador Turbo,Eletrônicos,Loja Centro,PR,1,89.9
+23/09/2024,Kit Shampoo,Beleza,Loja Shopping,SP,1,59.9
+10/10/2024,Tênis de Corrida,Vestuário,Loja Shopping,BA,1,260.91
+16/11/2024,Camiseta Básica,Vestuário,Loja Centro,SP,3,44.91
+05/09/2024,Fone Bluetooth,Eletrônicos,Loja Centro,SP,1,149.9
+02/12/2024,Café 500g,Alimentação,Loja Online,SP,2,24.9
+05/05/2024,Tênis de Corrida,Vestuário,Loja Centro,SP,2,289.9
+20/12/2024,Fone Bluetooth,Eletrônicos,Loja Centro,PR,2,134.91
+19/02/2024,Café 500g,Alimentação,Loja Online,SP,2,24.9
+20/08/2024,Tênis de Corrida,Vestuário,Loja Online,RJ,1,260.91
+12/08/2024,Jaqueta Jeans,Vestuário,Loja Shopping,SP,1,219.9
+13/08/2024,Camiseta Básica,Vestuário,Loja Shopping,SP,3,44.91
+09/04/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,MG,1,134.91
+09/01/2024,Estante,Móveis,Loja Online,SP,2,296.91
+25/04/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,2,80.91
+16/09/2024,Cesta de Chocolates,Alimentação,Loja Online,SP,2,71.91
+18/10/2024,Kit Shampoo,Beleza,Loja Shopping,SP,1,53.91
+14/12/2024,Camiseta Básica,Vestuário,Loja Online,RJ,1,"49,90"
+11/07/2024,Camiseta Básica,Vestuário,Loja Centro,RJ,3,49.9
+10/12/2024,Tênis de Corrida,Vestuário,Loja Shopping,SP,2,289.9
+20/11/2024,Fone Bluetooth,Eletrônicos,Loja Centro,RJ,1,149.9
+13/06/2024,Camiseta Básica,Vestuário,Loja Online,RJ,1,44.91
+09/07/2024,Mesa de Escritório,Móveis,Loja Centro,MG,2,649.9
+25/09/2024,Camiseta Básica,Vestuário,Loja Shopping,SP,1,44.91
+03/03/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,PR,2,149.9
+08/09/2024,Smartwatch,Eletrônicos,Loja Centro,RJ,2,
+17/11/2024,Estante,Móveis,Loja Shopping,SP,2,329.9
+03/12/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,BA,2,149.9
+12/11/2024,Smartwatch,Eletrônicos,Loja Centro,SP,2,399.9
+23/01/2024,Smartwatch,Eletrônicos,Loja Online,MG,3,399.9
+01/12/2024,Jaqueta Jeans,Vestuário,Loja Shopping,MG,1,
+20/02/2024,Kit Shampoo,Beleza,Loja Online,RJ,1,59.9
+21/05/2024,Jaqueta Jeans,Vestuário,Loja Shopping,RJ,2,197.91
+24/02/2024,Smartwatch,Eletrônicos,Loja Online,RJ,3,399.9
+19/03/2024,Smartwatch,Eletrônicos,Loja Online,BA,2,399.9
+02/03/2024, Camiseta Básica ,Vestuário,Loja Centro,RJ,2,
+08/04/2024,Perfume,Beleza,Loja Shopping,BA,3,189.9
+05/03/2024,Carregador Turbo,Eletrônicos,Loja Centro,MG,1,
+09/08/2024,Café 500g,Alimentação,Loja Shopping,MG,2,24.9
+10/12/2024,Estante,Móveis,Loja Shopping,SP,2,329.9
+05/04/2024,Tênis de Corrida,Vestuário,Loja Centro,RJ,1,289.9
+03/03/2024,Camiseta Básica,Vestuário,Loja Online,SP,3,49.9
+09/10/2024,Kit Shampoo,Beleza,Loja Online,RJ,1,59.9
+28/12/2024,Cesta de Chocolates,Alimentação,Loja Centro,SP,1,71.91
+25/01/2024, Café 500g ,Alimentação,Loja Online,SP,1,24.9
+27/06/2024,Carregador Turbo,Eletrônicos,Loja Centro,RJ,1,89.9
+02/08/2024,Perfume,Beleza,Loja Shopping,SP,2,189.9
+03/07/2024,Jaqueta Jeans,Vestuário,Loja Shopping,MG,1,197.91
+03/02/2024,Carregador Turbo,Eletrônicos,Loja Online,RJ,1,80.91
+27/11/2024,Camiseta Básica,Vestuário,Loja Centro,RJ,1,44.91
+22/02/2024,Camiseta Básica,Vestuário,Loja Shopping,MG,2,49.9
+21/11/2024,Tênis de Corrida,Vestuário,Loja Shopping,PR,1,260.91
+24/06/2024,Café 500g,Alimentação,Loja Online,RJ,2,24.9
+26/09/2024,Café 500g,Alimentação,Loja Centro,SP,1,24.9
+24/10/2024,Carregador Turbo,Eletrônicos,Loja Shopping,MG,4,80.91
+05/12/2024,Kit Shampoo,Beleza,Loja Online,SP,2,53.91
+13/10/2024,Cesta de Chocolates,Alimentação,Loja Centro,PR,4,71.91
+04/02/2024,Fone Bluetooth,Eletrônicos,Loja Shopping,PR,1,149.9
+17/07/2024,Mesa de Escritório,Móveis,Loja Online,SP,2,649.9
+24/05/2024,Kit Shampoo,Beleza,Loja Centro,RJ,3,53.91
+20/06/2024,Café 500g,Alimentação,Loja Centro,PR,1,22.41
+06/03/2024,Perfume,Beleza,Loja Centro,PR,1,"170,91"
+04/09/2024,Smartwatch,Eletrônicos,Loja Centro,SP,3,359.91
+04/02/2024,Perfume,Beleza,Loja Shopping,RJ,3,"189,90"
+22/11/2024,Camiseta Básica,Vestuário,Loja Online,SP,1,49.9
+01/12/2024,Fone Bluetooth,Eletrônicos,Loja Online,RJ,1,149.9
+01/12/2024,Fone Bluetooth,Eletrônicos,Loja Centro,SP,1,149.9
+12/10/2024,Carregador Turbo,Eletrônicos,Loja Online,RJ,1,89.9
+04/04/2024,Carregador Turbo,Eletrônicos,Loja Centro,SP,2,89.9
+25/12/2024,Carregador Turbo,Eletrônicos,Loja Shopping,RJ,2,"80,91"
+23/06/2024,Estante,Móveis,Loja Shopping,SP,3,329.9
+18/11/2024,Carregador Turbo,Eletrônicos,Loja Centro,BA,1,89.9
+05/09/2024,Carregador Turbo,Eletrônicos,Loja Shopping,MG,3,89.9
+05/02/2024,Cesta de Chocolates,Alimentação,Loja Centro,RJ,1,71.91
+18/05/2024,Café 500g,Alimentação,Loja Online,RJ,1,24.9
+22/01/2024,Cesta de Chocolates,Alimentação,Loja Online,SP,1,79.9
+19/06/2024,Carregador Turbo,Eletrônicos,Loja Online,PR,3,89.9
+20/12/2024,Café 500g,Alimentação,Loja Centro,MG,1,24.9
+16/10/2024,Cesta de Chocolates,Alimentação,Loja Online,SP,1,71.91
+21/01/2024,Carregador Turbo,Eletrônicos,Loja Shopping,PR,1,89.9
+21/10/2024,Kit Shampoo,Beleza,Loja Online,SP,2,59.9
+04/11/2024,Tênis de Corrida,Vestuário,Loja Centro,BA,2,260.91
+01/06/2024,Cesta de Chocolates,Alimentação,Loja Shopping,SP,3,79.9
+19/07/2024,Carregador Turbo,Eletrônicos,Loja Shopping,MG,2,80.91
+20/06/2024, Fone Bluetooth ,Eletrônicos,Loja Shopping,PR,2,149.9
+24/05/2024,Camiseta Básica,Vestuário,Loja Shopping,BA,1,49.9
+07/06/2024,Smartwatch,Eletrônicos,Loja Shopping,RJ,1,399.9
+08/06/2024,Café 500g,Alimentação,Loja Online,BA,2,24.9
+17/03/2024,Café 500g,Alimentação,Loja Online,RJ,3,"24,90"
+17/10/2024, Cadeira Gamer ,Móveis,Loja Online,SP,1,899.9
+23/09/2024,Café 500g,Alimentação,Loja Centro,SP,1,22.41
+11/09/2024,Cesta de Chocolates,Alimentação,Loja Shopping,RJ,1,79.9
+03/12/2024,Café 500g,Alimentação,Loja Shopping,SP,1,"24,90"
+19/07/2024, Carregador Turbo ,Eletrônicos,Loja Shopping,SP,4,89.9
+28/11/2024,Fone Bluetooth,Eletrônicos,Loja Online,BA,2,149.9
+01/04/2024,Café 500g,Alimentação,Loja Centro,SP,1,24.9
+20/12/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,1,89.9
+10/03/2024,Carregador Turbo,Eletrônicos,Loja Online,MG,1,
+25/10/2024,Carregador Turbo,Eletrônicos,Loja Online,SP,2,89.9
+28/08/2024,Fone Bluetooth,Eletrônicos,Loja Online,MG,2,149.9
+12/02/2024,Cesta de Chocolates,Alimentação,Loja Shopping,SP,2,79.9
+01/11/2024,Café 500g,Alimentação,Loja Shopping,RJ,1,24.9
+14/06/2024,Café 500g,Alimentação,Loja Centro,BA,1,24.9
+23/02/2024,Kit Shampoo,Beleza,Loja Shopping,MG,1,"59,90"
+27/12/2024,Kit Shampoo,Beleza,Loja Online,MG,2,59.9
+16/01/2024,Mesa de Escritório,Móveis,Loja Centro,SP,1,649.9
+14/03/2024,Carregador Turbo,Eletrônicos,Loja Shopping,RJ,2,80.91
+24/08/2024,Camiseta Básica,Vestuário,Loja Shopping,PR,1,49.9
+07/08/2024,Jaqueta Jeans,Vestuário,Loja Shopping,BA,2,219.9
+04/10/2024,Perfume,Beleza,Loja Shopping,RJ,2,189.9
+10/05/2024,Jaqueta Jeans,Vestuário,Loja Online,SP,1,219.9
+04/03/2024,Café 500g,Alimentação,Loja Shopping,BA,3,24.9
+10/10/2024,Jaqueta Jeans,Vestuário,Loja Centro,MG,2,219.9
+08/09/2024,Kit Shampoo,Beleza,Loja Centro,BA,2,59.9
+02/12/2024,Kit Shampoo,Beleza,Loja Online,MG,2,59.9
+01/07/2024,Jaqueta Jeans,Vestuário,Loja Shopping,SP,2,197.91
+06/01/2024,Jaqueta Jeans,Vestuário,Loja Online,MG,1,219.9
+26/11/2024,Camiseta Básica,Vestuário,Loja Centro,SP,3,49.9
+28/12/2024,Café 500g,Alimentação,Loja Shopping,PR,2,24.9
+15/09/2024,Camiseta Básica,Vestuário,Loja Shopping,RJ,2,44.91
+05/09/2024,Estante,Móveis,Loja Shopping,PR,1,329.9
+03/08/2024,Smartwatch,Eletrônicos,Loja Centro,BA,4,399.9
+01/09/2024,Perfume,Beleza,Loja Online,RJ,2,170.91
+27/12/2024,Kit Shampoo,Beleza,Loja Online,MG,2,59.9
+20/06/2024,Café 500g,Alimentação,Loja Centro,PR,1,22.41
+07/01/2024,Carregador Turbo,Eletrônicos,Loja Shopping,SP,2,80.91

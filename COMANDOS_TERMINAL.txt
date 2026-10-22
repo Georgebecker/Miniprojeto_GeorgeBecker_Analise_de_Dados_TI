@@ -1,0 +1,19 @@
+COMANDOS PARA EXECUTAR O MINI-PROJETO
+=====================================
+
+Abra o PowerShell e execute os comandos abaixo na primeira vez:
+
+Set-Location "D:\Projetos\Miniprojeto_GeorgeBecker_Analise_de_Dados_TI"
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install --upgrade pip
+.\.venv\Scripts\python.exe -m pip install pandas numpy
+.\.venv\Scripts\python.exe .\Miniprojeto_GeorgeBecker_Analise_de_Dados_TI.py
+
+O script usa o arquivo "Bdados\Base Varejo.csv.zip" que já está no projeto.
+Também aceita "Base Varejo.csv" extraído diretamente na pasta do projeto.
+Ao terminar, gera "df_limpo.csv" nessa mesma pasta.
+
+Para executar novamente depois da instalação, use:
+
+Set-Location "D:\Projetos\Miniprojeto_GeorgeBecker_Analise_de_Dados_TI"
+.\.venv\Scripts\python.exe .\Miniprojeto_GeorgeBecker_Analise_de_Dados_TI.py

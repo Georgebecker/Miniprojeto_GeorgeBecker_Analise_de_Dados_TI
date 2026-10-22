@@ -1,0 +1,6 @@
+
+# ---- Ambiente e segredos (protecao adicionada por novo-env.ps1) ----
+.env
+.env.*
+!.env.example
+.venv/

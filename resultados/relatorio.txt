@@ -1,0 +1,77 @@
+======================================================================
+ ANÁLISE EXPLORATÓRIA DAS VENDAS - BASE VAREJO
+======================================================================
+ fonte: Base Varejo.csv (lido de dentro de Bdados/Base Varejo.csv.zip)
+
+1. LIMPEZA DOS DADOS
+   linhas lidas na planilha ................ 830.000
+   linhas repetidas removidas .............. 96.553
+   linhas descartadas por defeito .......... 0
+   categorias sem informação corrigidas .... 3.228
+   produtos sem nome corrigidos ............ 3.228
+   vendas válidas .......................... 733.447
+
+2. VISÃO GERAL DO PERÍODO
+   vendas registradas ...................... 733.447
+   clientes distintos ...................... 1.000
+   lojas distintas ......................... 18.471
+   produtos distintos ...................... 118
+   período ................................. 04/01/2019 a 08/12/2022 (1.435 dias)
+   média de vendas por dia ................. 511
+
+3. PRODUTOS MAIS VENDIDOS (número de registros)
+   1º  PRESUNTO COZIDO                  12.719  (  1,7%)
+   2º  SARDINHA                          6.610  (  0,9%)
+   3º  BANANA                            6.518  (  0,9%)
+   4º  ESCOVA DE DENTE                   6.518  (  0,9%)
+   5º  GEL                               6.517  (  0,9%)
+
+4. PARTICIPAÇÃO POR CATEGORIA
+   ALIMENTOS                   384.197  ( 52,4%)
+   HIGIENE                     137.702  ( 18,8%)
+   LIMPEZA                     128.632  ( 17,5%)
+   BEBIDAS                      38.264  (  5,2%)
+   PET                          28.553  (  3,9%)
+   ACESSORIOS                   12.871  (  1,8%)
+   SEM CATEGORIA                 3.228  (  0,4%)
+
+5. VENDAS ANO A ANO
+   2019     176.103  #############################
+   2020     192.804  ################################
+   2021     216.813  ####################################
+   2022     147.727  #########################
+   -- meses mais fortes --
+   out/2021      28.575  (  3,9%)
+   mai/2019      28.115  (  3,8%)
+   out/2020      25.275  (  3,4%)
+   jan/2021      23.915  (  3,3%)
+   jul/2021      23.635  (  3,2%)
+
+6. QUEM COMPRA
+   -- por gênero --
+   Feminino                    382.427  ( 52,1%)
+   Masculino                   351.020  ( 47,9%)
+   -- por segmento do cliente --
+   B                           468.505  ( 63,9%)
+   C                           205.265  ( 28,0%)
+   A                            59.677  (  8,1%)
+   -- filhos por cliente (cada cliente conta uma vez) --
+   clientes com o dado preenchido .......... 1.000
+   mediana de filhos ....................... 0,0
+   média de filhos ......................... 1,1
+   clientes sem filhos ..................... 52,7%
+
+7. PARA ONDE OLHAR (conclusões dos números acima)
+   - A categoria ALIMENTOS puxa as vendas: 52,4% de tudo que saiu.
+   - O produto mais vendido é PRESUNTO COZIDO, com 12.719 registros (1,7% do total).
+   - Os cinco primeiros produtos somam 5,3% das vendas: pouca coisa explica quase tudo.
+   - Feminino é quem mais compra (52,1% dos registros).
+   - out/2021 foi o mês mais forte (3,9% do total): vale reforçar estoque antes.
+   - 52,7% dos clientes não têm filhos; a média (1,1) é puxada por poucos clientes com famílias grandes.
+
+Observações sobre os limites desta base:
+   - Ela não tem coluna de preço nem de quantidade: por isso o relatório
+     conta registros de venda em vez de calcular faturamento.
+   - Linhas idênticas foram tratadas como venda repetida. Como a base não
+     tem código único de venda, duas compras iguais no mesmo dia são
+     indistinguíveis de um lançamento duplicado.
